@@ -1,4 +1,3 @@
-````markdown
 # LLM Teleop + YOLO Scene Understanding for TurtleBot3 (ROS 2 Humble)
 
 This project lets you:
@@ -11,7 +10,7 @@ This project lets you:
 
 Everything is built in a ROS 2 workspace called `ros2_ws`.
 
----
+
 
 ## 0. System Requirements
 
@@ -20,7 +19,7 @@ Everything is built in a ROS 2 workspace called `ros2_ws`.
 - **GPU**: Optional (YOLO can run on CPU)
 - **Git + Python3** installed
 
----
+
 
 ## 1. One-time Installation
 
