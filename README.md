@@ -370,6 +370,5 @@ If all of that works, the project is correctly installed and running ✅
 
 Enjoy! 😄
 
-```
 
 
